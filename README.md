@@ -18,3 +18,4 @@
 * [电商项目介绍---说的很好](https://blog.csdn.net/qq_35661171/article/details/78524293)
 * [五分钟阅读阿里巴巴架构师如何使用微服务框架搭建电商平台全过程](https://blog.csdn.net/pingdouble/article/details/79527044)
 * [2018年电商基础面试总结](https://blog.csdn.net/u011330276/article/details/82712687)
+* [完全分布式的搭建步骤](https://blog.csdn.net/Jack184317/article/details/80688750)
