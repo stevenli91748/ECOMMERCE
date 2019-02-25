@@ -15,3 +15,4 @@
 * [大型网站应用之海量数据和高并发解决方案总结一二](https://blog.csdn.net/xlgen157387/article/details/53230138)
 * [电商后台设计](https://blog.csdn.net/HQZ820844012/article/details/80641252)
 * [电商平台-会员积分系统的设计与架构](https://blog.csdn.net/yu15163158717/article/details/80981158)
+* [【商城应用】用户余额体系设计](https://blog.csdn.net/linzhiqiang0316/article/details/84573165)
