@@ -18,4 +18,7 @@
 * [【商城应用】用户余额体系设计](https://blog.csdn.net/linzhiqiang0316/article/details/84573165)
 * [积分商城如何梳理思路和进行设计](https://blog.csdn.net/pmcaff2008/article/details/78795355)
 * [电商网站秒杀与抢购的系统架构](https://blog.csdn.net/HQZ820844012/article/details/80623247)
+* [Java B2B2C多用户商城架构篇之——分库分表]()
+
 * [java 多用户B2B2C商城系统架构之第四篇：构建高并发高可用的电商平台架构实践](https://blog.csdn.net/imjcoder/article/details/80764918)
+
