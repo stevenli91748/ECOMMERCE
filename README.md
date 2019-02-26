@@ -21,4 +21,6 @@
 * [Java B2B2C多用户商城架构篇之——分库分表]()
 
 * [java 多用户B2B2C商城系统架构之第四篇：构建高并发高可用的电商平台架构实践](https://blog.csdn.net/imjcoder/article/details/80764918)
+* [分布式大型电商实战项目搭建教程](https://blog.csdn.net/qq_26857649/article/details/79356187)
+* [电商项目虚拟主机的配置](https://blog.csdn.net/fanyao4144/article/details/78959171)
 
