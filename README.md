@@ -24,3 +24,4 @@
 * [分布式大型电商实战项目搭建教程](https://blog.csdn.net/qq_26857649/article/details/79356187)
 * [电商项目虚拟主机的配置](https://blog.csdn.net/fanyao4144/article/details/78959171)
 * [个人项目电商系统前台+后台](https://blog.csdn.net/CarryBest/article/details/80545893)
+* [电商项目的一般架构](https://blog.csdn.net/qq_32827261/article/details/77523003)
