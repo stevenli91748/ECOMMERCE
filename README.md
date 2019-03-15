@@ -1,10 +1,12 @@
 # ECOMMERCE
 
+
+* B2B
+* B2C
+* B2B2C
+
 # 电商平台的八大控制模块
  
-
-
-
 # 
 
 * [个人开发web应用，从需求设计，界面设计，数据库设计，API设计等，好的开发流程是怎么样的？](https://www.zhihu.com/question/24976128)
