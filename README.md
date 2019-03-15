@@ -25,3 +25,4 @@
 * [电商项目虚拟主机的配置](https://blog.csdn.net/fanyao4144/article/details/78959171)
 * [个人项目电商系统前台+后台](https://blog.csdn.net/CarryBest/article/details/80545893)
 * [电商项目的一般架构](https://blog.csdn.net/qq_32827261/article/details/77523003)
+* [Web 实时推送技术如何弥补 HTTP 协议的缺陷？](https://blog.csdn.net/csdnnews/article/details/88549335)
