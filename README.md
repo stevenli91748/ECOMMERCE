@@ -28,3 +28,8 @@
 * [个人项目电商系统前台+后台](https://blog.csdn.net/CarryBest/article/details/80545893)
 * [电商项目的一般架构](https://blog.csdn.net/qq_32827261/article/details/77523003)
 * [Web 实时推送技术如何弥补 HTTP 协议的缺陷？](https://blog.csdn.net/csdnnews/article/details/88549335)
+
+
+# 项目实践
+
+* [my-shop基于Spring+SpringMVC+Mybatis+Shiro+redis+Vue+Swagger2小程序商城](https://github.com/stevenli91748/my-shop)
