@@ -33,3 +33,8 @@
 # 项目实践
 
 * [my-shop基于Spring+SpringMVC+Mybatis+Shiro+redis+Vue+Swagger2小程序商城](https://github.com/stevenli91748/my-shop)
+
+
+# 有用的参考
+
+ * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
