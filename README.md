@@ -8,6 +8,7 @@
 # 电商平台的八大控制模块
  
 # 
+* [电商设计手册](http://skrshop.tech/#/?id=%E6%8A%80%E6%9C%AF%E6%A0%88%E9%80%89%E5%9E%8B)
 * [打造互联网企业架构相关技术（实战干货）](https://blog.csdn.net/qq_27384769/article/details/79439922)
 * [个人开发web应用，从需求设计，界面设计，数据库设计，API设计等，好的开发流程是怎么样的？](https://www.zhihu.com/question/24976128)
 * [电商项目介绍---说的很好](https://blog.csdn.net/qq_35661171/article/details/78524293)
