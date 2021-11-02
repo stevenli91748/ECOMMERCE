@@ -3,6 +3,9 @@
 # 在线书籍
 
 * [产品设计思维： 电商产品设计全功略](https://weread.qq.com/web/reader/3d532fe05de4da3d52176ea)
+* [电商产品经理宝典： 电商后台系统产品逻辑全解析](https://weread.qq.com/web/reader/3a032d807159f1033a01f7e)
+* [电商产品经理兵法：基于SaaS的电商系统的设计和实践](https://weread.qq.com/web/reader/99e32e9071d7c73299ee9ed)
+* [业务中台产品搭建指南: 电商业务全流程设计和实践](https://weread.qq.com/web/reader/3f93210071d82b1e3f95088)
 
 
 
