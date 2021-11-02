@@ -12,13 +12,17 @@
 
 <a href="https://ibb.co/K00LBKk"><img src="https://i.ibb.co/YRRyJ0M/BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET.png" alt="BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET" border="0"></a>
 
----
+* B2B2C电商平台的控制模块
+  * 商城系统
+  * CMS
+  * IM
+  * 移动端
 
-* B2B
-* B2C
-* B2B2C
 
-# 电商平台的八大控制模块
+
+
+
+
  
 # 
 * [电商设计手册](http://skrshop.tech/#/?id=%E6%8A%80%E6%9C%AF%E6%A0%88%E9%80%89%E5%9E%8B)
