@@ -9,6 +9,7 @@
 * [电商财务管理系统：模块架构+数据流转+进销存核算+中台建设](https://weread.qq.com/web/reader/82832270724b5d9a82870df)
 
 
+<a href="https://ibb.co/K00LBKk"><img src="https://i.ibb.co/YRRyJ0M/BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET.png" alt="BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET" border="0"></a>
 
 ---
 
