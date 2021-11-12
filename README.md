@@ -12,11 +12,33 @@
 
 <a href="https://ibb.co/K00LBKk"><img src="https://i.ibb.co/YRRyJ0M/BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET.png" alt="BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET" border="0"></a>
 
-* B2B2C电商平台的控制模块
-  * 商城系统
-  * CMS
-  * IM
-  * 移动端
+
+# 案例
+  * [大型电商平台微服务设计入门案例](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k33e3289021c33e75ff09694)  
+
+
+# 目录
+* B2B2C电商平台---可以将电商平台的总体业务功能分为面向顾客的门户商城、面向商家的商家管理后台和面向平台运营方的平台管理后台三大部分
+  * 面向顾客的门户商城---门户商城就相当于商家的店铺，是商家展示商品、顾客浏览商品并进行实际交易的地方
+    * 商城系统
+    * CMS
+    * IM
+    * 移动端
+  * 面向商家的商家管理后台---商家管理后台，是商家进行商城事务日常管理的操作平台
+    * 用户管理
+    * 商品管理
+    * 账户管理
+    * 订单管理
+    * 评价管理
+    * 物流管理
+    * 会员管理
+    * 点击率统计 
+  * 面向平台运营方的平台管理后台---平台管理后台是平台运营方的一个管理后台，是用来管理商家及其操作权限的一个运营管理系统
+    * 商家管理
+    * 商家权限管理
+    * 商品类目管理
+    * 顾客管理
+    * 平台操作员管理 
 
 
 
