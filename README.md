@@ -2,6 +2,7 @@
 
 # 在线书籍
 * [Spring Cloud微服务架构实战---2020 本书以电商案例讲解微服务开发环境塔建，微服务治理，数据架构设计，展示层架构设计，分布式文件系统设计，高并发订单架构设计，移动端商城架构设计，管理后台架构设计，很好的微服务架构入门书, 是 “Spring Cloud与Docker高并发微服务架构设计实施” 的改编版, jenkis + FastDFS + MySQL分库分区 读写分离 主从同步 主主同步 + Docker部署 + SSO设计 +  MongoDB + Mybatis + RESTful API + Spring data JPA + Zipkin + ELK + Consul + ](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714)
+* [B2B2C网上商城开发指南](https://weread.qq.com/web/reader/9db327a05a62419db3fa8db)
 * [产品设计思维： 电商产品设计全功略](https://weread.qq.com/web/reader/3d532fe05de4da3d52176ea)
 * [电商产品经理宝典： 电商后台系统产品逻辑全解析](https://weread.qq.com/web/reader/3a032d807159f1033a01f7e)
 * [电商产品经理兵法：基于SaaS的电商系统的设计和实践](https://weread.qq.com/web/reader/99e32e9071d7c73299ee9ed)
