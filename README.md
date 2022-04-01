@@ -79,3 +79,4 @@
 # 有用的参考
  * [个人如何做跨境电商？](https://www.zhihu.com/question/26070928/answer/648289947?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
  * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+ * [聊聊电商系统中常见的9大坑！库存超卖、重复下单、物流单](https://mp.weixin.qq.com/s/frgsYSUoCFH58PNBeqU0Xg)
