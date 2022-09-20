@@ -9,6 +9,47 @@
 * [业务中台产品搭建指南: 电商业务全流程设计和实践](https://weread.qq.com/web/reader/3f93210071d82b1e3f95088)
 * [电商财务管理系统：模块架构+数据流转+进销存核算+中台建设](https://weread.qq.com/web/reader/82832270724b5d9a82870df)
 
+# 全球电商平台
+  * 北美电商平台
+    * 亚马逊
+    * eBay
+    * Wish
+    * Walmart
+    * Etsy
+    * Wayfair
+    * Newegg
+    * Overstock
+    * Tophatter
+  * 欧洲电商平台
+    * Cdiscount
+    * Allegro
+    * Vova
+    * Eprice
+  * 东南亚电商平台
+    * Lazada
+    * Shopee
+    * Qoo10
+  * 中东电商平台
+    * Souq
+    * Noon
+  * 印度电商平台
+    * Daraz 
+    * Snapdeal
+  * 非洲电商平台
+    * Jumia
+  * 俄罗斯电商平台
+    * Joom
+  * 日韩电商平台
+    * Rakuten(乐天)
+    * Gmarket
+    * Coupang
+    * 雅虎日本
+  * 南美电商平台
+    * MercadoLibre
+
+ 
+
+
 <a href="https://ibb.co/WV2tf8q"><img src="https://i.ibb.co/sWVHqxk/BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET1.png" alt="BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET1" border="0"></a>
 
 <a href="https://ibb.co/K00LBKk"><img src="https://i.ibb.co/YRRyJ0M/BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET.png" alt="BUIDING-HIGH-PERFORMANCE-E-COMMERCE-PLATFORM-ARCHITECTURE-DESIGN-AND-DEVELOPMET" border="0"></a>
