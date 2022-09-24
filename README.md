@@ -29,7 +29,7 @@
     * Eprice
   * 东南亚电商平台
     * Lazada
-    * Shopee
+    * [Shopee](https://github.com/stevenli91748/ECOMMERCE/tree/master/Shopee)
     * Qoo10
   * 中东电商平台
     * Souq
