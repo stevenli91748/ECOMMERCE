@@ -9,6 +9,8 @@
 * [业务中台产品搭建指南: 电商业务全流程设计和实践](https://weread.qq.com/web/reader/3f93210071d82b1e3f95088)
 * [电商财务管理系统：模块架构+数据流转+进销存核算+中台建设](https://weread.qq.com/web/reader/82832270724b5d9a82870df)
 
+# 独立站系统
+  * [Shopify](https://github.com/stevenli91748/Shopify-Ecommerce)
 # 全球电商平台
   * 北美电商平台
     * 亚马逊
