@@ -63,8 +63,8 @@
 
 # 博客
 
-[进击的电商](https://www.youtube.com/channel/UCFsap4oyI_kTM9DkZ3gkxeQ)|[【Shopify 電商教學】我是如何在七個月內做到70w萬美金銷售額的 ](https://www.youtube.com/watch?v=bObwG2WidR8)|[大力Dali](https://www.youtube.com/channel/UCi_9a7QLXHUEcyrxP2Uva0A)|
----|---|---|
+[进击的电商](https://www.youtube.com/channel/UCFsap4oyI_kTM9DkZ3gkxeQ)|[【Shopify 電商教學】我是如何在七個月內做到70w萬美金銷售額的 ](https://www.youtube.com/watch?v=bObwG2WidR8)|[大力Dali](https://www.youtube.com/channel/UCi_9a7QLXHUEcyrxP2Uva0A)|[Star Yo电商运营教程](https://www.youtube.com/c/StarYo)|
+---|---|---|---|
 
 
 
