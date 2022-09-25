@@ -61,6 +61,13 @@
   * [大型电商平台微服务设计入门案例](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k33e3289021c33e75ff09694)  
   * [电商系统](https://www.kancloud.cn/digest/b2c-it)
 
+# 博客
+
+[进击的电商](https://www.youtube.com/channel/UCFsap4oyI_kTM9DkZ3gkxeQ)|[【Shopify 電商教學】我是如何在七個月內做到70w萬美金銷售額的 ](https://www.youtube.com/watch?v=bObwG2WidR8)|[大力Dali](https://www.youtube.com/channel/UCi_9a7QLXHUEcyrxP2Uva0A)|
+---|---|---|
+
+
+
 # 目录
 * B2B2C电商平台---可以将电商平台的总体业务功能分为面向顾客的门户商城、面向商家的商家管理后台和面向平台运营方的平台管理后台三大部分
   * 面向顾客的门户商城---门户商城就相当于商家的店铺，是商家展示商品、顾客浏览商品并进行实际交易的地方
