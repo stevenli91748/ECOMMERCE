@@ -13,7 +13,7 @@
   * [Shopify](https://github.com/stevenli91748/Shopify-Ecommerce)
 # 全球电商平台
   * 北美电商平台
-    * 亚马逊
+    * [亚马逊](https://github.com/stevenli91748/ECOMMERCE/tree/master/amazon)
     * eBay
     * Wish
     * Walmart
