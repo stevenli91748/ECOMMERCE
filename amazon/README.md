@@ -1,8 +1,8 @@
 
 
 # 博客
-[跨境电商富妈妈---amazon教程](https://www.youtube.com/c/BeRichMom/playlists)|
----|
+[跨境电商富妈妈---amazon教程](https://www.youtube.com/c/BeRichMom/playlists)|[HankWen---amazon教程](https://www.youtube.com/channel/UCga-wWwuiK4c1UFc4iNV3uA/videos)|
+---|---|
 
 
 
