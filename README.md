@@ -22,7 +22,7 @@
     * Newegg
     * Overstock
     * Tophatter
-    * [Tiktok]()
+    * [Tiktok](https://github.com/stevenli91748/ECOMMERCE/tree/master/Tiktok)
   * 欧洲电商平台
     * Cdiscount
     * Allegro
