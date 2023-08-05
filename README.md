@@ -86,7 +86,7 @@
 * [TangTalk---你的中外金融之桥](https://www.youtube.com/channel/UCpQjT0lpQxTV7tNXee65LqQ/videos)
 * [李哈利Harry](https://www.youtube.com/c/HarryLee)|
 * [网路赚钱 | 被动收入，5个网站每天可以赚$120美金的秘密](https://www.youtube.com/watch?v=LuU4jm-32zk)
-* [看YouTube油管视频赚600美金｜0成本在家赚钱](看YouTube油管视频赚600美金｜0成本在家赚钱)
+* [看视频赚500美金｜0成本在家赚钱｜2022赚钱——「外贸麦克」](https://www.youtube.com/watch?v=wpACPA7nuJo&t=77s)
 
 
 
