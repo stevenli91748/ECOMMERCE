@@ -11,7 +11,7 @@
 
 # 独立站系统
   * [Shopify](https://github.com/stevenli91748/Shopify-Ecommerce)
-# 全球电商平台
+# [全球电商平台](https://www.egainnews.com/article/6734)
   * 北美电商平台
     * [亚马逊](https://github.com/stevenli91748/ECOMMERCE/tree/master/amazon)
     * eBay
